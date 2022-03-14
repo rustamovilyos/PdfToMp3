@@ -1,4 +1,6 @@
-If your are using Ubuntu 20.01 (and 18.04) like me, the solution is to Install Oracle JDK 17. Do the following:
+if code don't work please check, on your device installed java
+
+If yor are using Ubuntu 20.01 (and 18.04) like me, the solution is to Install Oracle JDK 17. Do the following:
 
 sudo add-apt-repository ppa:linuxuprising/java
 sudo apt update
